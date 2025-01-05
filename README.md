@@ -18,8 +18,8 @@ YouTube Video containing a Presentation of our Project:
 ## Use Cases
 | Use Case    | Description                                                                                                                 |
 |-------------|------------------------------------------------------------------------------------------------------------------------------|
-| Use Case 1  | Allows users to navigate and view lists of movies, actors, and directors within the application.                            |
-| Use Case 2  | Enables users to perform targeted searches for movies, actors, or directors based on specific criteria like title, genre, or rating. |
+| Use Case 1  | Users can browse and view detailed lists of movies, actors, and directors.                            |
+| Use Case 2  | Users can perform advanced searches for movies, actors, or directors using specific criteria such as title, genre, or rating. |
 
 ### Implementation
 | Category   | Technology                   |
@@ -39,11 +39,11 @@ YouTube Video containing a Presentation of our Project:
 
 ### Development Environment Setup
 1. Navigate to the folder you want to clone the Source Code into.
-2. Run `git clone https://github.com/ntua-el20166/softeng-2023.git`
+2. Run `git clone https://github.com/philmard/ntuaflix.git`
 3. a) Download nodejs from this website: https://nodejs.org/en/download
 
    b) Download Python from this website: https://www.python.org/downloads/
-4. Run `cd softeng-2023`
+4. Run `cd ntuaflix`
 5. Run `npm install` (in order to install necessary packages)
 6. Run `npm install next react react-dom` (in order to install Next.js)
 7. Run `cd frontend` and then `npm install` (in order to install frontend specific packages)
